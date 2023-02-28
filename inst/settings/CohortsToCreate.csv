@@ -1,0 +1,18 @@
+atlasId,atlasName,cohortId,name
+13186,[EPI_720 - T01] New Users of abiraterone + prednisone with CRPC,13186,EPI_720__T01_New_Users_of_abiraterone__prednisone_with_CRPC
+13245,[EPI_720 - C01] New users of enzalutamide with CRPC,13245,EPI_720__C01_New_users_of_enzalutamide_with_CRPC
+13320,"[EPI_720 - O01] Cardiovascular morbidity (ischemic stroke, hemorrhagic stroke, heart failure, acute myocardial infarction or sudden cardiac death)",13320,EPI_720__O01_Cardiovascular_morbidity_ischemic_stroke_hemorrhagic_stroke_heart_failure_acute_myocardial_infarction_or_sudden_cardiac_death
+13321,[EPI_720 - O02] Cardiovascular morbidity - ischemic stroke,13321,EPI_720__O02_Cardiovascular_morbidity__ischemic_stroke
+13323,[EPI_720 - O03] Cardiovascular morbidity - hemorrhagic stroke,13323,EPI_720__O03_Cardiovascular_morbidity__hemorrhagic_stroke
+13324,[EPI_720 - O04] Cardiovascular morbidity - heart failure,13324,EPI_720__O04_Cardiovascular_morbidity__heart_failure
+13325,[EPI_720 - O05] Cardiovascular morbidity - acute myocardial infarction (AMI),13325,EPI_720__O05_Cardiovascular_morbidity__acute_myocardial_infarction_AMI
+13326,[EPI_720 - O06] Cardiovascular morbidity - sudden cardiac death,13326,EPI_720__O06_Cardiovascular_morbidity__sudden_cardiac_death
+13327,[EPI_720 - O07] Alzheimer's outcome (validated),13327,EPI_720__O07_Alzheimers_outcome_validated
+13248,[EPI_720 - T01] New Users of abiraterone + prednisone with CRPC (no CVD in prior 6-mo),13248,EPI_720__T01_New_Users_of_abiraterone__prednisone_with_CRPC_no_CVD_in_prior_6mo
+13247,[EPI_720 - C01] New users of enzalutamide with CRPC (no CVD in prior 6-mo),13247,EPI_720__C01_New_users_of_enzalutamide_with_CRPC_no_CVD_in_prior_6mo
+13185,[EPI_720 - T01] New Users of abiraterone + prednisone with CRPC (any CVD in prior 6-mo),13185,EPI_720__T01_New_Users_of_abiraterone__prednisone_with_CRPC_any_CVD_in_prior_6mo
+13246,[EPI_720 - C01] New users of enzalutamide with CRPC (any CVD in prior 6-mo),13246,EPI_720__C01_New_users_of_enzalutamide_with_CRPC_any_CVD_in_prior_6mo
+13191,[EPI_720 - T01] New Users of abiraterone + prednisone with CRPC (uncontrolled CVD in prior 6-mo),13191,EPI_720__T01_New_Users_of_abiraterone__prednisone_with_CRPC_uncontrolled_CVD_in_prior_6mo
+13319,[EPI_720 - C01] New users of enzalutamide with CRPC (uncontrolled CVD in prior 6-mo),13319,EPI_720__C01_New_users_of_enzalutamide_with_CRPC_uncontrolled_CVD_in_prior_6mo
+13187,[EPI_720 - T01] New Users of abiraterone + prednisone with CRPC (controlled CVD in prior 6-mo),13187,EPI_720__T01_New_Users_of_abiraterone__prednisone_with_CRPC_controlled_CVD_in_prior_6mo
+13316,[EPI_720 - C01] New users of enzalutamide with CRPC (controlled CVD in prior 6-mo),13316,EPI_720__C01_New_users_of_enzalutamide_with_CRPC_controlled_CVD_in_prior_6mo

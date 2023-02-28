@@ -1,0 +1,32 @@
+{
+    "id": "80A41D2C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602867716143.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cacheKey": "AFDC6F6D",
+        "caption": "covariate",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=covariate&cache_key=AFDC6F6D",
+        "displayedObservations": 560550,
+        "environment": "",
+        "expression": "covariate",
+        "object": "covariate",
+        "preview": 0,
+        "totalObservations": 560550,
+        "variables": 5
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602867716143,
+    "read_only": false,
+    "read_only_alternatives": []
+}

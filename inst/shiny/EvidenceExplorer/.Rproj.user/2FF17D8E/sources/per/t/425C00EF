@@ -1,0 +1,32 @@
+{
+    "id": "425C00EF",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602867928872.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cacheKey": "B3FC2A5F",
+        "caption": "bal",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=bal&cache_key=B3FC2A5F",
+        "displayedObservations": 31473,
+        "environment": "",
+        "expression": "bal",
+        "object": "bal",
+        "preview": 0,
+        "totalObservations": 31473,
+        "variables": 16
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7453010373661433968,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602867928872,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "editor_line_number": 130,
+                "editor_state": 1,
+                "function_name": "toplevel",
+                "function_steps": "",
+                "id": 0,
+                "is_package_breakpoint": false,
+                "is_pending_debug_completion": false,
+                "line_number": 130,
+                "needs_updated_steps": true,
+                "package_name": "",
+                "path": "~/epi_720/EPI720_3/inst/shiny/EvidenceExplorer/DataClean.R",
+                "state": 1,
+                "type": 1
+            }
+        ]
+    }
+}

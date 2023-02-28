@@ -1,0 +1,34 @@
+DBMS:
+pdw
+
+Error:
+com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'scratch.dbo.epi_720_mdcr'.
+
+SQL:
+select * from scratch.dbo.epi_720_mdcr
+
+R version:
+R version 4.0.2 (2020-06-22)
+
+Platform:
+x86_64-w64-mingw32
+
+Attached base packages:
+- stats
+- graphics
+- grDevices
+- utils
+- datasets
+- methods
+- base
+
+Other attached packages:
+- CohortMethod (4.0.0)
+- FeatureExtraction (3.0.1)
+- Andromeda (0.3.2)
+- dplyr (1.0.2)
+- Cyclops (3.0.0)
+- flextable (0.5.11)
+- magrittr (1.5)
+- EPI720 (0.0.1)
+- DatabaseConnector (3.0.0)
